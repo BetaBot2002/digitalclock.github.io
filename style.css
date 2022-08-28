@@ -8,14 +8,15 @@
 
 #dig{
     width: 45vw;
-    height: 206px;
+    height: 27.466666666666665vh;
     background-color: rgb(0, 0, 0);
     color: rgb(59, 241, 4);
-    font-size: 200px;
+    font-size: 13.020833333333334vw;
     position: relative;
     font-family: 'Seven Segment', sans-serif;
     display: inline-block;
     text-align: center;
+    font-stretch: ultra-condensed;
 }
 
 #ap{
@@ -23,13 +24,13 @@
     background-color: rgb(0, 0, 0);
     color: rgb(59, 241, 4);
     font-family: 'Seven Segment', sans-serif;
-    font-size: 100px;
+    font-size: 6.510416666666667vw;
     text-align: center;
     width: 10vw;
-    height: 180px;
+    height: 27.466666666666665vh;
     vertical-align:top;
     padding-top: 25px;
-    padding-bottom: 0%;
+    padding-bottom: 25px;
 }
 
 #clock{
@@ -45,6 +46,7 @@
     transform: translate(-50%, -50%);
     box-shadow: 15px 15px 15px black; 
     width:55vw;   
+    height:27.466666666666665vh;
 }
 
 #date{
@@ -53,7 +55,7 @@
     top: 67%;
     left: 64%;
     transform: translate(-50%, -50%);
-    font-size: 50px;
+    font-size: 3.2552083333333335vw;
     display: inline-block;
     background-color: rgb(0, 0, 0);
     color: rgb(255, 242, 0);
